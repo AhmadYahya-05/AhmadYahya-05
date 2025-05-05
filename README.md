@@ -18,7 +18,7 @@ I'm a Computer Science student passionate about solving meaningful problems with
 📍 Waterloo, Ontario  
 🔨 Notable Projects:
 
-- **Exam Scheduler** – Web app used by 20,000+ students to generate personalized visual exam schedules  
+- **Exam Scheduler** – Full Stack App for 20,000+ students to generate personalized visual exam schedules  
 - **Dominarlo** – Developed multilingual support, real-time quizzes, and secure authentication for a scalable educational tool used by thousands of students  
 - **NBA Player Stats** – Dynamic player comparison tool using live data from sports APIs  
 
