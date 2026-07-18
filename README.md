@@ -1,47 +1,19 @@
-# 👋 Hi, I'm Ahmad Yahya
-https://ahmadyahya-05.github.io/
+Building AI-native tools that get used, not just demoed.
 
-💫 **About Me:**  
-I'm a Computer Science student passionate about solving meaningful problems with code.
+Computer Science + Economics @ Wilfrid Laurier University · Waterloo, ON
 
----
-
-## 🚀 What I'm Up To
-🧠 Improving my skills in full-stack development  
-📚 Always exploring new tech stacks and open-source projects  
-📌 Check out some of my featured projects below!
+[ahmadyahya.com](https://ahmadyahya-05.github.io/) · [LinkedIn](https://linkedin.com/in/ahmad-yahya-a69278140)
 
 ---
 
-## 🎓 Education & Projects
+### Currently
+<img src="https://logo.clearbit.com/sunlife.com" width="14"/> Software Engineer @ Sun Life Financial (Fall 2026)
 
-**Wilfrid Laurier University — B.Sc. in Computer Science**  
-📍 Waterloo, Ontario  
-🔨 Notable Projects:
+### Experience
 
-- **Exam Scheduler** – Full Stack App for 20,000+ students to generate personalized visual exam schedules  
-- **Dominarlo** – Developed multilingual support, real-time quizzes, and secure authentication for a scalable educational tool used by thousands of students  
-- **NBA Player Stats** – Dynamic player comparison tool using live data from sports APIs  
+<img src="https://logo.clearbit.com/rbc.com" width="14"/> **Software Engineer @ RBC**
+<sub>Built [1UP Assist](#), an MCP-native AI agent letting managers and directors query a large MongoDB dataset in natural language - adopted into daily use.</sub>
 
----
+<img src="https://logo.clearbit.com/dominarlo.com" width="14"/> **Full Stack Developer @ Dominarlo**
+<sub>Shipped full-stack features for a scalable educational platform used by thousands of students.</sub>
 
-## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-yahya-a69278140/)  
-📧 yahy4285@mylaurier.ca
-
----
-
-## 💻 Tech Stack:
-
-**Languages:**  
-`Java` `Python` `C/C++` `JavaScript` `HTML5` `CSS` `SQL`
-
-**Frameworks & Tools:**  
-`React.js` `Node.js` `Express.js` `Spring Boot` `Flask` `PostgreSQL` `Docker` `OAuth2` `Tailwind CSS`
-
-**Developer Tools:**  
-`Git` `Postman` `Railway` `Vercel` `npm` `gh-pages`
-
----
-
-🔗 Visit my repositories to see more projects, and feel free to connect — always open to collaborating or sharing ideas!
